@@ -1,0 +1,9 @@
+name: data_scraping
+channels:
+  - defaults
+dependencies:
+  - rapids=22.08
+  - python=3.9
+  - cudatoolkit=11.5
+  - beautifulsoup4
+prefix: /home/rashi/anaconda3/envs/data_scraping
